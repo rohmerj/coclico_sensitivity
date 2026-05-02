@@ -7,7 +7,7 @@ You will find the R scripts for running the global sensitivity analysis (GSA) fo
 - make sure to have the R package [sensitivity](https://cran.r-project.org/web/packages/sensitivity/index.html) installed
 - for plotting, make sure to have the R package [ggplot](https://ggplot2.tidyverse.org/) and [gridExtra](https://cran.r-project.org/web/packages/gridExtra/index.html) installed
 - run the R script *run_GSA.R*
-- The results can processed and plotted by running the R script *run_plt.R*
+- The results can be processed and plotted by running the R script *run_plt.R*
 
 **Files**
 - ./data/*.csv: the results of the uncertainty propagation for the five countries considered (France FR, Spain ES, the UK, Italy IT, Finland FI)
